@@ -189,7 +189,7 @@ Logs should be compatible with:
 ---
 
 ## 11. Code Review Checklist
-
+ 
 Before merging:
 
 * Proper log level is used
